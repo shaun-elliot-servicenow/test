@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_snc_sasaaa.my prope</name>
+        <read_roles/>
+        <suffix>my prope</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>shaun.elliot@snc</sys_created_by>
+        <sys_created_on>2024-05-08 13:25:54</sys_created_on>
+        <sys_id>54802da98382821071f5b100feaad315</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_sasaaa.my prope</sys_name>
+        <sys_package display_value="sasaaa" source="x_snc_sasaaa">3950e5a98382821071f5b100feaad382</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sasaaa">3950e5a98382821071f5b100feaad382</sys_scope>
+        <sys_update_name>sys_properties_54802da98382821071f5b100feaad315</sys_update_name>
+        <sys_updated_by>shaun.elliot@snc</sys_updated_by>
+        <sys_updated_on>2024-05-08 13:25:54</sys_updated_on>
+        <type>string</type>
+        <value/>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=54802da98382821071f5b100feaad315"/>
+</record_update>
